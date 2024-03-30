@@ -1,8 +1,7 @@
 ## Document representation
 ### How to represent a document?
 Make it computable
-### How to infer the relationship among documents or identify the
-structure within a document?
+### How to infer the relationship among documents or identify the structure within a document?
 Representation is the first, probably the most important and
 most complex problem in almost all Natural Language
 Processing (NLP) tasks.
